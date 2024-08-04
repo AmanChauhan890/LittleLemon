@@ -139,3 +139,4 @@ DEFAULT_AUTHENTICATION_CLASSES = [
 DJOSER = {
     "USER_ID-FIELD" : "username",
             }
+
